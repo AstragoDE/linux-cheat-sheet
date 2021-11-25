@@ -29,6 +29,11 @@ mv -vi <SRC> <TRG> #interactive
 mv -vu <SRC> <TRG> #update (moves source only if it is newer than the target)
 ``` 
 
+## Create folder
+```bash
+mkdir <NAME>
+```
+
 ---
 
 ## Get size of file / folder
