@@ -11,3 +11,7 @@
 ## Installation Guides
 
 1. [Java 17 installation](installations/java-17-installation.md)
+
+## Guides
+
+1. [Autostart a Bash Script on Linux](guides/autostart.md)
