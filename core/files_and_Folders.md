@@ -3,7 +3,7 @@
 
 ## Copy files or folders
 ```bash
-cp -avr <SRC> <CPY> #verbose output
+cp -vr <SRC> <CPY> #verbose output
 ```
 
 ## Delete files or folders
